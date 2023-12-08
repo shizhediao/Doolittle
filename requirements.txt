@@ -1,0 +1,5 @@
+jupyter
+torch==1.13.1+cu117
+nltk
+sentencepiece
+evaluate
